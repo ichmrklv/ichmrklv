@@ -1,20 +1,4 @@
 # 👋 Hello! Welcome to my GitHub profile!
-
-Q: Why do data scientists love optimization?
-A: Because it’s all about making life easier, one function at a time!
-
----
-
-## About Me
-
-Меня зовут **Алина**. Я ML Engineer
-
-🎓 В настоящее время я обучаюсь в магистратуре Финансового университета, специализируясь на компьютерном зрении.  
-Ранее в 2024 году завершила бакалавриат по прикладной математике, получив прочные знания в математических основах и алгоритмах, необходимых для работы в области машинного обучения и анализа данных.
-
-
----
-# 👋 Привет! 
 ### Q: Why do data scientists love optimization?  
 #### A: Because it’s all about making life easier, one function at a time!
 
@@ -23,7 +7,7 @@ A: Because it’s all about making life easier, one function at a time!
 Меня зовут **Алина**, я ML Engineer с опытом в области машинного обучения, обработки данных и автоматизации. 
 Стремлюсь создавать оптимальные решения для анализа и обработки данных, развиваюсь в направлении MLOps для обеспечения надежности и эффективности моделей в продакшене.
 
-🎓 В настоящее время я обучаюсь в магистратуре Финансового университета, специализируясь на компьютерном зрении.  
+🎓 В настоящее время я обучаюсь в магистратуре Финансового университета на направлении "Компьютерное зрение" (CV) 
 Ранее в 2024 году завершила бакалавриат по прикладной математике, получив прочные знания в математических основах и алгоритмах, необходимых для работы в области машинного обучения и анализа данных.
 
 - 🌍 Проживаю в Москве, Россия.
@@ -44,11 +28,6 @@ A: Because it’s all about making life easier, one function at a time!
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Bokeh](https://img.shields.io/badge/-Bokeh-FF4088?style=flat&logo=bokeh&logoColor=white)
-![Altair](https://img.shields.io/badge/-Altair-1F77B4?style=flat)
-![Dash](https://img.shields.io/badge/-Dash-00A4CC?style=flat&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
-![ggplot](https://img.shields.io/badge/-ggplot-1D91C0?style=flat&logo=r&logoColor=white)
 
 ### Машинное обучение и глубокое обучение:
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -80,18 +59,9 @@ A: Because it’s all about making life easier, one function at a time!
 ![TensorBoard](https://img.shields.io/badge/-TensorBoard-FF6F00?style=flat&logo=tensorboard&logoColor=white)
 ![Seldon](https://img.shields.io/badge/-Seldon-FFD700?style=flat&logo=seldon&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/-Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### Базы данных и работа с данными:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Cassandra](https://img
